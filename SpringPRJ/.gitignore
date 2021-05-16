@@ -1,4 +1,4 @@
 /target/
 /src/config/
-/poly/service/impl/
+/src/poly/service/impl/MailService.*
 /.metadata/
