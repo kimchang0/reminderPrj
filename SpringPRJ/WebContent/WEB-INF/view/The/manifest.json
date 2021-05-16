@@ -1,0 +1,9 @@
+{
+	"name": "Reminder",
+	"short_name": "Reminder",
+	"start_url": "/TheLogin.do",
+	"display": "standalone",
+	"background_color": "#FFBB24",
+	"theme_color": "#FFBB24",
+	"gcm_sender_id": "923825148942"
+}
